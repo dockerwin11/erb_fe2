@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/erb_fe2/static/css/main.ccf4dc4f.css",
+    "main.js": "/erb_fe2/static/js/main.d158af48.js",
+    "static/media/korea1.jpg": "/erb_fe2/static/media/korea1.899fff7d61400ab3e814.jpg",
+    "static/media/about-us.jpg": "/erb_fe2/static/media/about-us.27d0a5627b2ad9e48a75.jpg",
+    "static/media/switzerland.jpg": "/erb_fe2/static/media/switzerland.4e879c1e03dc185de42b.jpg",
+    "static/media/thailand.jpg": "/erb_fe2/static/media/thailand.900e1dd60d1fbe3bb8c6.jpg",
+    "static/media/japan1.jpg": "/erb_fe2/static/media/japan1.68bc1e3b5d79aa67fe49.jpg",
+    "static/media/logo.svg": "/erb_fe2/static/media/logo.5500751a09b936fc8b4ec51c2e65846c.svg",
+    "index.html": "/erb_fe2/index.html",
+    "main.ccf4dc4f.css.map": "/erb_fe2/static/css/main.ccf4dc4f.css.map",
+    "main.d158af48.js.map": "/erb_fe2/static/js/main.d158af48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf4dc4f.css",
+    "static/js/main.d158af48.js"
+  ]
+}
